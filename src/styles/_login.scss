@@ -1,0 +1,23 @@
+.login_container{
+    .login-box{
+        width: 500px;
+        padding: 20px 40px;
+        margin-top: 200px;
+
+        h3{
+            font-weight: 700;
+        }
+
+        label,button{
+            font-size: 1.6em;
+        }
+
+        input{
+            font-size: 2em;
+        }
+    }
+}
+
+.react-datepicker__month-container{
+    text-align-last: center;
+}
